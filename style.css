@@ -1,0 +1,45 @@
+h1{
+    
+    color: white;
+    font-family:Georgia;
+    margin-left: 2em;
+    background: green;
+    padding:50px;
+
+}
+  
+  p {
+  
+    font-size: 20px;
+  
+  }
+  
+  td {
+  
+    border: 1px solid gray;
+  
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
+    color: blue;
+    text-align: center;
+  
+  }
+  
+  #row1 {
+  
+    background-color: aquamarine;
+  
+  }
+  
+  #row2{
+  
+    background-color: cadetblue;
+  
+  }
+  
+  .name {
+  
+    font-size: 22px;
+  
+  }
+  
